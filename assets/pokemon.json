@@ -1,0 +1,606 @@
+[
+  {
+    "label": "Bulbasaur",
+    "value": "bulbasaur"
+  },
+  {
+    "label": "Ivysaur",
+    "value": "ivysaur"
+  },
+  {
+    "label": "Venusaur",
+    "value": "venusaur"
+  },
+  {
+    "label": "Charmander",
+    "value": "charmander"
+  },
+  {
+    "label": "Charmeleon",
+    "value": "charmeleon"
+  },
+  {
+    "label": "Charizard",
+    "value": "charizard"
+  },
+  {
+    "label": "Squirtle",
+    "value": "squirtle"
+  },
+  {
+    "label": "Wartortle",
+    "value": "wartortle"
+  },
+  {
+    "label": "Blastoise",
+    "value": "blastoise"
+  },
+  {
+    "label": "Caterpie",
+    "value": "caterpie"
+  },
+  {
+    "label": "Metapod",
+    "value": "metapod"
+  },
+  {
+    "label": "Butterfree",
+    "value": "butterfree"
+  },
+  {
+    "label": "Weedle",
+    "value": "weedle"
+  },
+  {
+    "label": "Kakuna",
+    "value": "kakuna"
+  },
+  {
+    "label": "Beedrill",
+    "value": "beedrill"
+  },
+  {
+    "label": "Pidgey",
+    "value": "pidgey"
+  },
+  {
+    "label": "Pidgeotto",
+    "value": "pidgeotto"
+  },
+  {
+    "label": "Pidgeot",
+    "value": "pidgeot"
+  },
+  {
+    "label": "Rattata",
+    "value": "rattata"
+  },
+  {
+    "label": "Raticate",
+    "value": "raticate"
+  },
+  {
+    "label": "Spearow",
+    "value": "spearow"
+  },
+  {
+    "label": "Fearow",
+    "value": "fearow"
+  },
+  {
+    "label": "Ekans",
+    "value": "ekans"
+  },
+  {
+    "label": "Arbok",
+    "value": "arbok"
+  },
+  {
+    "label": "Pikachu",
+    "value": "pikachu"
+  },
+  {
+    "label": "Raichu",
+    "value": "raichu"
+  },
+  {
+    "label": "Sandshrew",
+    "value": "sandshrew"
+  },
+  {
+    "label": "Sandslash",
+    "value": "sandslash"
+  },
+  {
+    "label": "Nidoran-F",
+    "value": "nidoran-f"
+  },
+  {
+    "label": "Nidorina",
+    "value": "nidorina"
+  },
+  {
+    "label": "Nidoqueen",
+    "value": "nidoqueen"
+  },
+  {
+    "label": "Nidoran-M",
+    "value": "nidoran-m"
+  },
+  {
+    "label": "Nidorino",
+    "value": "nidorino"
+  },
+  {
+    "label": "Nidoking",
+    "value": "nidoking"
+  },
+  {
+    "label": "Clefairy",
+    "value": "clefairy"
+  },
+  {
+    "label": "Clefable",
+    "value": "clefable"
+  },
+  {
+    "label": "Vulpix",
+    "value": "vulpix"
+  },
+  {
+    "label": "Ninetales",
+    "value": "ninetales"
+  },
+  {
+    "label": "Jigglypuff",
+    "value": "jigglypuff"
+  },
+  {
+    "label": "Wigglytuff",
+    "value": "wigglytuff"
+  },
+  {
+    "label": "Zubat",
+    "value": "zubat"
+  },
+  {
+    "label": "Golbat",
+    "value": "golbat"
+  },
+  {
+    "label": "Oddish",
+    "value": "oddish"
+  },
+  {
+    "label": "Gloom",
+    "value": "gloom"
+  },
+  {
+    "label": "Vileplume",
+    "value": "vileplume"
+  },
+  {
+    "label": "Paras",
+    "value": "paras"
+  },
+  {
+    "label": "Parasect",
+    "value": "parasect"
+  },
+  {
+    "label": "Venonat",
+    "value": "venonat"
+  },
+  {
+    "label": "Venomoth",
+    "value": "venomoth"
+  },
+  {
+    "label": "Diglett",
+    "value": "diglett"
+  },
+  {
+    "label": "Dugtrio",
+    "value": "dugtrio"
+  },
+  {
+    "label": "Meowth",
+    "value": "meowth"
+  },
+  {
+    "label": "Persian",
+    "value": "persian"
+  },
+  {
+    "label": "Psyduck",
+    "value": "psyduck"
+  },
+  {
+    "label": "Golduck",
+    "value": "golduck"
+  },
+  {
+    "label": "Mankey",
+    "value": "mankey"
+  },
+  {
+    "label": "Primeape",
+    "value": "primeape"
+  },
+  {
+    "label": "Growlithe",
+    "value": "growlithe"
+  },
+  {
+    "label": "Arcanine",
+    "value": "arcanine"
+  },
+  {
+    "label": "Poliwag",
+    "value": "poliwag"
+  },
+  {
+    "label": "Poliwhirl",
+    "value": "poliwhirl"
+  },
+  {
+    "label": "Poliwrath",
+    "value": "poliwrath"
+  },
+  {
+    "label": "Abra",
+    "value": "abra"
+  },
+  {
+    "label": "Kadabra",
+    "value": "kadabra"
+  },
+  {
+    "label": "Alakazam",
+    "value": "alakazam"
+  },
+  {
+    "label": "Machop",
+    "value": "machop"
+  },
+  {
+    "label": "Machoke",
+    "value": "machoke"
+  },
+  {
+    "label": "Machamp",
+    "value": "machamp"
+  },
+  {
+    "label": "Bellsprout",
+    "value": "bellsprout"
+  },
+  {
+    "label": "Weepinbell",
+    "value": "weepinbell"
+  },
+  {
+    "label": "Victreebel",
+    "value": "victreebel"
+  },
+  {
+    "label": "Tentacool",
+    "value": "tentacool"
+  },
+  {
+    "label": "Tentacruel",
+    "value": "tentacruel"
+  },
+  {
+    "label": "Geodude",
+    "value": "geodude"
+  },
+  {
+    "label": "Graveler",
+    "value": "graveler"
+  },
+  {
+    "label": "Golem",
+    "value": "golem"
+  },
+  {
+    "label": "Ponyta",
+    "value": "ponyta"
+  },
+  {
+    "label": "Rapidash",
+    "value": "rapidash"
+  },
+  {
+    "label": "Slowpoke",
+    "value": "slowpoke"
+  },
+  {
+    "label": "Slowbro",
+    "value": "slowbro"
+  },
+  {
+    "label": "Magnemite",
+    "value": "magnemite"
+  },
+  {
+    "label": "Magneton",
+    "value": "magneton"
+  },
+  {
+    "label": "Farfetchd",
+    "value": "farfetchd"
+  },
+  {
+    "label": "Doduo",
+    "value": "doduo"
+  },
+  {
+    "label": "Dodrio",
+    "value": "dodrio"
+  },
+  {
+    "label": "Seel",
+    "value": "seel"
+  },
+  {
+    "label": "Dewgong",
+    "value": "dewgong"
+  },
+  {
+    "label": "Grimer",
+    "value": "grimer"
+  },
+  {
+    "label": "Muk",
+    "value": "muk"
+  },
+  {
+    "label": "Shellder",
+    "value": "shellder"
+  },
+  {
+    "label": "Cloyster",
+    "value": "cloyster"
+  },
+  {
+    "label": "Gastly",
+    "value": "gastly"
+  },
+  {
+    "label": "Haunter",
+    "value": "haunter"
+  },
+  {
+    "label": "Gengar",
+    "value": "gengar"
+  },
+  {
+    "label": "Onix",
+    "value": "onix"
+  },
+  {
+    "label": "Drowzee",
+    "value": "drowzee"
+  },
+  {
+    "label": "Hypno",
+    "value": "hypno"
+  },
+  {
+    "label": "Krabby",
+    "value": "krabby"
+  },
+  {
+    "label": "Kingler",
+    "value": "kingler"
+  },
+  {
+    "label": "Voltorb",
+    "value": "voltorb"
+  },
+  {
+    "label": "Electrode",
+    "value": "electrode"
+  },
+  {
+    "label": "Exeggcute",
+    "value": "exeggcute"
+  },
+  {
+    "label": "Exeggutor",
+    "value": "exeggutor"
+  },
+  {
+    "label": "Cubone",
+    "value": "cubone"
+  },
+  {
+    "label": "Marowak",
+    "value": "marowak"
+  },
+  {
+    "label": "Hitmonlee",
+    "value": "hitmonlee"
+  },
+  {
+    "label": "Hitmonchan",
+    "value": "hitmonchan"
+  },
+  {
+    "label": "Lickitung",
+    "value": "lickitung"
+  },
+  {
+    "label": "Koffing",
+    "value": "koffing"
+  },
+  {
+    "label": "Weezing",
+    "value": "weezing"
+  },
+  {
+    "label": "Rhyhorn",
+    "value": "rhyhorn"
+  },
+  {
+    "label": "Rhydon",
+    "value": "rhydon"
+  },
+  {
+    "label": "Chansey",
+    "value": "chansey"
+  },
+  {
+    "label": "Tangela",
+    "value": "tangela"
+  },
+  {
+    "label": "Kangaskhan",
+    "value": "kangaskhan"
+  },
+  {
+    "label": "Horsea",
+    "value": "horsea"
+  },
+  {
+    "label": "Seadra",
+    "value": "seadra"
+  },
+  {
+    "label": "Goldeen",
+    "value": "goldeen"
+  },
+  {
+    "label": "Seaking",
+    "value": "seaking"
+  },
+  {
+    "label": "Staryu",
+    "value": "staryu"
+  },
+  {
+    "label": "Starmie",
+    "value": "starmie"
+  },
+  {
+    "label": "Mr-Mime",
+    "value": "mr-mime"
+  },
+  {
+    "label": "Scyther",
+    "value": "scyther"
+  },
+  {
+    "label": "Jynx",
+    "value": "jynx"
+  },
+  {
+    "label": "Electabuzz",
+    "value": "electabuzz"
+  },
+  {
+    "label": "Magmar",
+    "value": "magmar"
+  },
+  {
+    "label": "Pinsir",
+    "value": "pinsir"
+  },
+  {
+    "label": "Tauros",
+    "value": "tauros"
+  },
+  {
+    "label": "Magikarp",
+    "value": "magikarp"
+  },
+  {
+    "label": "Gyarados",
+    "value": "gyarados"
+  },
+  {
+    "label": "Lapras",
+    "value": "lapras"
+  },
+  {
+    "label": "Ditto",
+    "value": "ditto"
+  },
+  {
+    "label": "Eevee",
+    "value": "eevee"
+  },
+  {
+    "label": "Vaporeon",
+    "value": "vaporeon"
+  },
+  {
+    "label": "Jolteon",
+    "value": "jolteon"
+  },
+  {
+    "label": "Flareon",
+    "value": "flareon"
+  },
+  {
+    "label": "Porygon",
+    "value": "porygon"
+  },
+  {
+    "label": "Omanyte",
+    "value": "omanyte"
+  },
+  {
+    "label": "Omastar",
+    "value": "omastar"
+  },
+  {
+    "label": "Kabuto",
+    "value": "kabuto"
+  },
+  {
+    "label": "Kabutops",
+    "value": "kabutops"
+  },
+  {
+    "label": "Aerodactyl",
+    "value": "aerodactyl"
+  },
+  {
+    "label": "Snorlax",
+    "value": "snorlax"
+  },
+  {
+    "label": "Articuno",
+    "value": "articuno"
+  },
+  {
+    "label": "Zapdos",
+    "value": "zapdos"
+  },
+  {
+    "label": "Moltres",
+    "value": "moltres"
+  },
+  {
+    "label": "Dratini",
+    "value": "dratini"
+  },
+  {
+    "label": "Dragonair",
+    "value": "dragonair"
+  },
+  {
+    "label": "Dragonite",
+    "value": "dragonite"
+  },
+  {
+    "label": "Mewtwo",
+    "value": "mewtwo"
+  },
+  {
+    "label": "Mew",
+    "value": "mew"
+  }
+]
