@@ -9,12 +9,13 @@
 
 namespace Block_Lab_Pokemon;
 
-use Block_Lab\Blocks\Controls;
+use Block_Lab\Blocks\Controls\Control_Abstract;
+use Block_Lab\Blocks\Controls\Control_Setting;
 
 /**
  * Class Pokemon
  */
-class Pokemon_Control extends \Block_Lab\Blocks\Controls\Control_Abstract {
+class Pokemon_Control extends Control_Abstract {
 
 	/**
 	 * Control name.
@@ -39,7 +40,7 @@ class Pokemon_Control extends \Block_Lab\Blocks\Controls\Control_Abstract {
 	 * @return void
 	 */
 	public function register_settings() {
-		$this->settings[] = new \Block_Lab\Blocks\Controls\Control_Setting(
+		$this->settings[] = new Control_Setting(
 			array(
 				'name'    => 'default',
 				'label'   => __( 'Default Value', 'block-lab' ),
@@ -51,14 +52,14 @@ class Pokemon_Control extends \Block_Lab\Blocks\Controls\Control_Abstract {
 			)
 		);
 		foreach ( array( 'location', 'help' ) as $setting ) {
-			$this->settings[] = new \Block_Lab\Blocks\Controls\Control_Setting( $this->settings_config[ $setting ] );
+			$this->settings[] = new Control_Setting( $this->settings_config[ $setting ] );
 		}
 	}
 
 	/**
 	 * Renders a <select> of pokemon.
 	 *
-	 * @param \Block_Lab\Blocks\Controls\Control_Setting $setting The Control_Setting being rendered.
+	 * @param Control_Setting $setting The Control_Setting being rendered.
 	 * @param string          $name    The name attribute of the option.
 	 * @param string          $id      The id attribute of the option.
 	 *
